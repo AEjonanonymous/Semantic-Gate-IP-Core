@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "The Semantic Gate: Real-Time Manifold Integrity for Deterministic LLM Hallucination Suppression"
+version: 1.0.0
+doi: 10.5281/zenodo.19120776
+date-released: 2026-05-20
